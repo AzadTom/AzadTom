@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on jetpack compose project.
 - 🌱 I’m currently learning jetpack compose & UIUX.
-- 👯 I’m looking to collaborate on Twitter.
+- 👯 I’m looking to collaborate on Open source.
 - 🤔 I’m looking for help with Android Documentation & Blog and websites.
 - 💬 Ask me about Android or UIUX.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/azad-kumar-395798218)
