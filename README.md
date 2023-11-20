@@ -1,10 +1,7 @@
 ### Hello,I am Azad Kumar👋
 
 
-- 🔭 I’m currently working on jetpack compose project.
-- 🌱 I’m currently learning jetpack compose & UIUX.
-- 👯 I’m looking to collaborate on Open source.
-- 🤔 I’m looking for help with Android Documentation & Blog and websites.
+- 🔭 I am currently learning Full stack (Mern).
 - 💬 Ask me about Android or UIUX.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/azad-kumar-395798218)
                       [Twitter](https://twitter.com/kumarazad2917?t=TVQUuXfv8j7EZEJ3s7dwgQ&s=09)
