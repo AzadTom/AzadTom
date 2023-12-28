@@ -1,5 +1,4 @@
-### Hello,I am Azad Kumar👋
-
+### 👋 Hello everyone? 
 
 * I am currently learning Full stack (Mern).
 * Ask me about Android & Mern.
