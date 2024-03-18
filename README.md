@@ -10,11 +10,11 @@ I am an Full stack developer and have a keen interest  Web & App developemnt to 
       <a href="mailto:kumarazad2917@gmail.com">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
       </a> 
-      <a href="https://www.linkedin.com/in/azad-kumar-395798218">
+      <a href="https://www.linkedin.com/in/azadkumar93108/">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
       </a> 
 
-<a href="https://twitter.com/kumarazad2917?t=TVQUuXfv8j7EZEJ3s7dwgQ&s=09">
+<a href="https://twitter.com/Azadtom2917">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="twitter logo"  />
 </a> 
 
