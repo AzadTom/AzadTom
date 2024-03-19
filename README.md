@@ -2,7 +2,7 @@
 
 **`Full Stack developer`**
 
-I am a full-stack developer and have a keen interest in web and app development to solve real-world problems. I always look for opportunities to contribute my skills to someone else's help and organization growth, and I enjoy learning new skills as well. Here I put my project-related repositories; have a look at them all!
+I am a full-stack developer and have a keen interest in web and app development to solve real-world problems. I always look for opportunities to contribute my skills to someone else's help and organization growth, and I enjoy learning new skills as well. Here I put my project-related repositories, have a look at them all!
 
 </div>
    <p align="left">
