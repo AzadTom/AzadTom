@@ -1,6 +1,9 @@
-# 👋 AzadKumar
+![image](https://github.com/AzadTom/AzadTom/assets/105869036/2f00f021-7387-4f29-bd4b-10af4796e008)
+# <h1 align="center"> 👋 Azad Kumar </h1>
 
 **`Full Stack developer`**
+
+
 
 I am a full-stack developer and have a keen interest in web and app development to solve real-world problems. I always look for opportunities to contribute my skills to someone else's help and organization growth, and I enjoy learning new skills as well. Here I put my project-related repositories, have a look at them all!
 
