@@ -1,4 +1,4 @@
-# 🏄‍♂️ AzadKumar
+# 👋 AzadKumar
 
 **`Full Stack developer`**
 
