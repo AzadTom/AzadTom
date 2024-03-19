@@ -1,4 +1,3 @@
-![image](https://github.com/AzadTom/AzadTom/assets/105869036/2f00f021-7387-4f29-bd4b-10af4796e008)
 <h1 align="center"> 👋AZAD KUMAR </h1>
 
 **`Full Stack developer`**
